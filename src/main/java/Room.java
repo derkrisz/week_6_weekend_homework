@@ -12,5 +12,4 @@ public class Room {
         this.guests = new ArrayList<>();
     }
 
-
 }
