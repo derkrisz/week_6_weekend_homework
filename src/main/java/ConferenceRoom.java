@@ -8,4 +8,12 @@ public class ConferenceRoom extends Room {
         this.name = name;
         this.rate = rate;
     }
+
+    public String getName() {
+        return name;
+    }
+
+    public double getRate() {
+        return rate;
+    }
 }

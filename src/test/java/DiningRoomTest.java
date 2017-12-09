@@ -13,7 +13,7 @@ public class DiningRoomTest {
     }
 
     @Test
-    public void diningRoomhasName(){
+    public void diningRoomHasName(){
         assertEquals("Dining room", diningroom.getName());
     }
 
